@@ -10,31 +10,57 @@ k = 3
 
 Output:
 1) aaa
+
 2) aab
+
 3) aba
+
 4) baa
+
 5) aac
+
 6) aca
+
 7) caa
+
 8) abc
+
 9) acb
+
 10) bac
+
 11) cab
+
 12) ccc
+
 13) cca
+
 14) cac
+
 15) acc
+
 16) ccb
+
 17) cbc
+
 18) bcc
+
 19) bbb
+
 20) bba
+
 21) bab
+
 22) abb
+
 23) bbc
+
 24) bcb
+
 25) cbb
+
 26) bca
+
 27) cba
 
 This is just permutations, so for an array of size N and strings of length K, we would have N<sup>K</sup> possible strings. 

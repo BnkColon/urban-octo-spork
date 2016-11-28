@@ -65,5 +65,5 @@ Output:
 
 This is just permutations, so for an array of size N and strings of length K, we would have N<sup>K</sup> possible strings. 
 
-In this example the array is of size 3 and k = 3, the number of possible strings of length 3 is 3<sub>3</sub>, or 27. If k = 6, then we can have 3<sub>6</sub> possible strings, and so on.
+In this example the array is of size 3 and k = 3, the number of possible strings of length 3 is 3<sup>3</sup>, or 27. If k = 6, then we can have 3<sup>6</sup> possible strings, and so on.
 

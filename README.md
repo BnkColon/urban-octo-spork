@@ -9,6 +9,7 @@ k = 3
 
 
 Output:
+
 1) aaa
 
 2) aab
